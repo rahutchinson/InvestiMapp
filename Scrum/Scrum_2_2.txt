@@ -1,0 +1,23 @@
+hannel history
+2018-02-02T21:56:59Z ryanahutchinson: <@U90GQC6CW> has joined the channel
+2018-02-02T21:56:59Z chris.baierski: <@U8ZN1JM4J> has joined the channel
+2018-02-02T21:56:59Z darrel.donald: <@U90GVV77G> has joined the channel
+2018-02-02T21:56:59Z ryanahutchinson: <@U90GQC6CW> set the channel purpose: Scrum
+2018-02-02T21:56:59Z jairus.mcelroy: <@U8Z7FK5LZ> has joined the channel
+2018-02-02T21:56:59Z yanan.hao: <@U8Z6BPXFT> has joined the channel
+2018-02-02T21:56:59Z wesley.scott: <@U8ZJMQRPV> has joined the channel
+2018-02-02T21:57:33Z ryanahutchinson: Hey Guys this is the Scrum for February Second
+2018-02-02T21:58:04Z ryanahutchinson: We got the github page setup and running. Documentation has been added
+2018-02-02T21:59:13Z ryanahutchinson: I will email Sepideh with the date we chose: Feb 20th.
+2018-02-02T22:00:16Z ryanahutchinson: I will be working on the Sprint Backlog soon and get the user stories fixed from the feedback.
+2018-02-02T22:00:36Z ryanahutchinson: *No Roadblocks*
+2018-02-02T22:02:17Z chris.baierski: Hey guys, I will be a developer a majority of the time on this project. I will not be a Scrum Master thanks to <@U90GQC6CW>. Beyond that...*No Roadblocks*
+2018-02-02T22:02:48Z ryanahutchinson: Referenced Document: <https://docs.google.com/spreadsheets/d/1Iw34Q8jEXpZTYABWxyP3jP3idBWemReSW4ZC82i8218/edit?usp=sharing>
+2018-02-02T22:02:54Z ryanahutchinson: <@U90GQC6CW> shared a file: <https://se2-investimapp.slack.com/files/U90GQC6CW/F92JH3DSL/roles_for_se2|Roles for SE2>
+2018-02-02T22:05:44Z yanan.hao: *Well, I am totally okay to be a developer. I will work on the Platform and Focus group Docs I think...If I have some good ideas on them. Just planning...*
+2018-02-02T22:06:41Z yanan.hao: *No RoadBlocks*
+2018-02-02T22:09:23Z jairus.mcelroy: Hello everyone, I will be looking forward to help in a lot of the documentation and the app developing of the project as well. *No RoadBlocks*
+2018-02-02T22:09:40Z jairus.mcelroy: *helping
+2018-02-02T22:16:45Z darrel.donald: _Greetings fellow teammates,_ I am joyous to be collaborating with all of you on this project. *I am not currently in possession of any roadblocks.* I will make certain to inform all of you if that changes.
+2018-02-02T22:19:32Z wesley.scott: Today I set up the Kanban board on our project's GitHub. Issues/tasks were created for each item needed in Deliverable 1. As this week's Product Owner, I will create, share and manage the product backlog document.
+2018-02-02T22:19:39Z wesley.scott: *No Roadblocks*
