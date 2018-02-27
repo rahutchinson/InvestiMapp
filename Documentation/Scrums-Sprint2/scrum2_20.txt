@@ -1,0 +1,19 @@
+2018-02-21T03:15:30Z wesley.scott: Today, we finalized our presentation and roles for the new sprint. 
+  I’ll be looking into what all goes in to being the Scrum Master for our next step of the project. *No Roadblocks* 
+
+2018-02-21T03:21:25Z darrel.donald: im preparing for the presentation thursday. *no roadblocks* 
+
+2018-02-21T03:22:20Z yanan.hao: We discussed and got ready for the presentation today. *No Roadblock* 
+
+2018-02-21T03:24:14Z ryanahutchinson: <http://investimappapp.sgihjmswvu.us-east-2.elasticbeanstalk.com/> 
+
+2018-02-21T03:24:18Z ryanahutchinson: live running website 
+
+2018-02-21T03:25:57Z jairus.mcelroy: We prepared for the presentation Thursday and 
+  I’m preparing myself to accept the role of product owner. *No Roadblocks* 
+
+2018-02-21T03:28:28Z ryanahutchinson: Got the presentation created and assigned slides to people. 
+  we went over the slides. *No Roadblocks* 
+
+2018-02-21T04:03:46Z chris.baierski: Reviewed presentation. Added functionalities, and started light UI mockups. 
+  *NO ROADBLOCKS* 
