@@ -1,0 +1,15 @@
+wesley.scott: Hey guys, hope everything is going well. Deliverable 2's due date is coming up, but we're in a pretty good position.
+I've created and updated several documents. I've also collected the changes y'all have to made, and uploaded a bunch of them to the 
+GitHub. Things to note: -If you have a document assigned specifically to you, make sure you get that uploaded ASAP so we can turn it
+in on time -Be sure to download the latest version of the Team Member report and add your info/roles               
+2018-03-08T18:05:52Z wesley.scott: I've been working on cognito, and think I'm in a good position. I've created a user pool called 
+"RegisteredUser" and have started to mess with the back-end scripts that go into user authentication.               
+2018-03-08T18:06:19Z wesley.scott: *No Roadblocks, counting on the fact that the rest of the cognito implementation goes well tonight*  
+
+2018-03-09T04:19:13Z         ryanahutchinson: <@U90GQC6CW> uploaded a file:
+<https://se2-investimapp.slack.com/files/U90GQC6CW/F9M25GWNP/img_20180308_221742.jpg|IMG_20180308_221742.jpg> and commented: 
+UML class diagram complete. Feel free to recommend changes I will be cading it up tomorrow.  Other than that got the SRS updated and 
+will finish cleaning up the UCM and GRL shortly. *No roadblocks*        
+
+2018-03-09T10:07:00Z         darrel.donald: I haven't done anything since last scrum. I still don't know how to get into cognito. 
+Can someone help me out with that? *Roadblock: wheres the trenchcoat <@U8ZN1JM4J>?* 
