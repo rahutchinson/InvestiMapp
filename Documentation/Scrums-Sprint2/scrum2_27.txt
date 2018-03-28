@@ -1,0 +1,15 @@
+2018-02-28T03:50:48Z wesley.scott: Today we met in person to get everyone's environments setup in AWS. 
+We also solidfied our roles and tasks for Sprint 2. I created the Sprint Backlog File, uploaded it to GitHub, 
+and assigned it to the developers for this sprint. This week, Ryan and I will be working on the database schema, 
+I will keep Sprint 2 organized and on-track. Finally, I will be doing some research and tutorials for CodeStar so 
+I'm not fumbling around the project with no idea what's going on. 
+2018-02-28T03:50:55Z wesley.scott: *No Roadblocks* 
+
+2018-02-28T08:16:59Z darrel.donald: No one told me it was time to get scrummy. I picked some assignments to day with everyone else. 
+Remember? We were all there and it was a good time. I still don't have the hat and trench coat, but aside from that *No Roadblocks*
+
+2018-02-28T21:00:23Z ryanahutchinson: Got some research done on database schemas, started GRL and UCMs *No RoadBlocks* 
+
+2018-02-28T21:54:39Z yanan.hao: did some research on aws, will try to work on log in part. *No Roadblocks* 
+
+2018-03-01T17:17:39Z chris.baierski: Researched other portfolio UI. *NO ROADBLOCKS* 
